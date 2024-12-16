@@ -1,6 +1,6 @@
 # MetaWall (Work In Progress)
 
-此專案為六角 NodeJS 直播班的最終作業的 Vue 3 版本。由於初次寫前端便使用 Nuxt 3 撰寫，反而未能深入理解 Vue 3 搭配 Vue Router 的語法及其底層運作，因此決定重新撰寫。本次專案除了前端技術外，後端也從 MongoDB 轉為 MySQL 並使用 Sequelize 進行 ORM，以更熟悉 NodeJS 生態系。雖然對 AWS S3 相關技術感興趣，但因為價格考量有所猶豫，由於有打算使用 Cloudflare 託管網域的計畫，決定也利用 Cloudflare 的 R2（S3 兼容）來管理圖片，提升讀取速度並增強安全性。
+此專案為六角 NodeJS 直播班的最終作業的 Vue 3 版本。由於初寫前後端分離專案便使用 Nuxt 3，反而未能深入理解 Vue 3 搭配 Vue Router 的語法及其底層運作，因此決定重新撰寫。本次專案除了前端技術外，後端也從 MongoDB 轉為 MySQL 並使用 Sequelize 進行 ORM，以更熟悉 NodeJS 生態系。雖然對 AWS S3 相關技術感興趣，但因為價格考量有所猶豫，由於有打算使用 Cloudflare 託管網域的計畫，決定也利用 Cloudflare 的 R2（S3 兼容）來管理圖片，提升讀取速度並增強安全性。
 
 ## 產品描述
 
