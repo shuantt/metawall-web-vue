@@ -21,9 +21,9 @@ MetaWall 是一個社群平台專案，具備以下功能：
 - Tailwind CSS
 
 ### 後端
-
-- MySql (Sequelize ORM)
+- Node.js (Express)
 - MVC Pattern
+- MySql (Sequelize ORM)
 
 ### 其他
 
