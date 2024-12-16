@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* 字體 */
+  font-family: 'Bebas Neue', 'sans-serif';
+  font-size: 16px;
+}
+
+body {
+  /* 尺寸 */
+
+  /* 背景 */
+  background-image: url('/public/images/bg.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.pic-auto {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
